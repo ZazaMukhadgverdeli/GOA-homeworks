@@ -1,0 +1,5 @@
+print("Zaza Mukhadgverdeli")
+print("Ani Verulashvili")
+print("Tatuka Mukhadgverdeli")
+print("Teko Mukhadgverdeli")
+print("Zviadi Mukhadgverdeli")
