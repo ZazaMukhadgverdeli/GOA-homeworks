@@ -10,6 +10,8 @@ print("Zviadi Mukhadgverdeli")
 name = "Zaza"
 age  = 11
 height =1.51
+surname="Mukhadgverdeli"
+
 
 print (name)
 print(age)
